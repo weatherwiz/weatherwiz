@@ -20,8 +20,34 @@
 </head>
 <body>
 	<div class="site-content">
-		<div th:replace="fragments/header :: header"></div>
-		<div th:replace="fragments/header :: header"></div>
+		<div th:replace="fragments/header :: header">
+		<div class="site-header" th:fragment="header" id="divUserHeader">
+		<div class="container">
+			<a th:href="@{/user/home}" class="branding"> <img src="/img/logo.png"
+				alt="" class="logo">
+				<div class="logo-type">
+					<h1 class="site-title">WeatherWiz</h1>
+				</div>
+			</a>
+			<div class="main-navigation">
+				<button type="button" class="menu-toggle" id="btnMenu">
+					<i class="fa fa-bars"></i>
+				</button>
+				<ul class="menu" id="ulUserMenu">
+					<li id="lnkSavedCities" class="menu-item"><a th:href="@{/user/savedcities}">Saved
+							Cities</a></li>
+					<li id="lnkGreatEscapes" class="menu-item"><a
+						th:href="@{/greatescapes}">Great Escapes</a></li>
+					<li id="lnkMyAccount" class="menu-item"><a th:href="@{/user}">My Account</a></li>
+					<li id="lnkLogin" class="menu-item"><a th:href="@{/logout}">Logout</a></li>
+					<!-- <li class="menu-item"><a href="contact.html">Contact</a></li> -->
+				</ul>
+			</div>
+			<div class="mobile-navigation"></div>
+		</div>
+	</div>
+		
+		
 
 		<div class="hero" data-bg-image="/img/rain.jpg">
 			<div class="container">
