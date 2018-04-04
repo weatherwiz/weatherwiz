@@ -1,1 +1,0 @@
-<?php header('Location: src/main/resources/templates/user/home.html'); ?>
