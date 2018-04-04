@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\Vamsi\Desktop\IS Design\Code\03-04-2018\weatherwiz"/>
+    <property name="user.dir" value="C:\Users\Vamsi\Documents\GitHub\weatherwiz"/>
     <property name="java.runtime.version" value="1.8.0_141-b15"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_141\jre\lib\endorsed"/>
@@ -25,9 +25,9 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\Vamsi\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf4432241507732359818.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\Vamsi\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf976770241982291966.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_141\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.8.0_141/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_141/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_141/bin/../jre/lib/amd64;&quot;C:\Program Files\Java\jdk1.8.0_141\bin;&quot;;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jre1.8.0_141;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Apache\maven\bin;&quot;C:\Program Files\Apache\maven\bin;&quot;;C:\Users\Vamsi\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk1.8.0_141\bin;C:\Program Files\Apache\maven\bin;;C:\Users\Vamsi\Desktop\IS Design\Code\eclipse;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_141\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.8.0_141/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_141/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_141/bin/../jre/lib/amd64;&quot;C:\Program Files\Java\jdk1.8.0_141\bin;&quot;;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jre1.8.0_141;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Apache\maven\bin;&quot;C:\Program Files\Apache\maven\bin;&quot;;C:\Program Files\Git\cmd;C:\Program Files\Git;C:\Users\Vamsi\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk1.8.0_141\bin;C:\Program Files\Apache\maven\bin;C:\Program Files\Heroku\bin;C:\Users\Vamsi\AppData\Local\GitHubDesktop\bin;C:\Users\Vamsi\Desktop\IS Design\Code\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -52,7 +52,7 @@
     <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_141\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_141\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_141\jre\classes"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="C:\Users\Vamsi\Desktop\IS Design\Code\03-04-2018\weatherwiz\EMBEDDED"/>
+    <property name="maven.home" value="C:\Users\Vamsi\Documents\GitHub\weatherwiz\EMBEDDED"/>
     <property name="file.separator" value="\"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
